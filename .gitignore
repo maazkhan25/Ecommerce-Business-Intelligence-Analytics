@@ -1,0 +1,14 @@
+# Raw and processed datasets
+data/raw/
+data/processed/
+
+# Duplicate Power BI file in project root
+/Ecommerce_Business_Intelligence_Analytics.pbix
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Temporary files
+*.tmp
+*.log

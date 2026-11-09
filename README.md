@@ -36,6 +36,23 @@ This project aims to organize, process, and analyze e-commerce data to support d
 | DAX | Measures and KPI calculations |
 | Visual Studio Code | Development environment |
 
+## Dataset Source
+
+This project uses the **Brazilian E-Commerce Public Dataset by Olist**, obtained from Kaggle.
+
+- **Dataset Name:** Brazilian E-Commerce Public Dataset by Olist
+- **Source:** [Kaggle – Olist Brazilian E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+- **Dataset Provider:** Olist
+- **Coverage:** Approximately 100,000 orders from 2016 to 2018.
+- **Format:** CSV files
+- **License:** CC BY-NC-SA 4.0
+
+The dataset contains information about customers, orders, products, sellers, payments, reviews, and geolocation.
+
+**Note:** The raw and processed dataset files are not included in this GitHub repository due to their size. Users can download the original dataset directly from the Kaggle source link provided above.
+
+Please refer to the original Kaggle page for the dataset's licensing and usage terms.
+
 ## Dataset Overview
 
 The project uses the Olist Brazilian E-Commerce Public Dataset.
